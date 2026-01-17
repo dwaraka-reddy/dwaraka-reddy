@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Insights from a New Developer in Backend Tech**
 
-- 📫 How to reach me **dwarakar42@gmail.com**
-
 - ⚡ Fun fact **I find solving complex problems more thrilling than a detective novel!**
 
 <h3 align="left">Connect with me:</h3>
