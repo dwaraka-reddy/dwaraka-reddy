@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dwaraka Reddy</h1>
+<h1 align="center">Hi 👋, I'm Dwaraka R</h1>
 <h3 align="center">An Enthusiastic Fresh Developer with a Focus on Backend Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwaraka-reddy" alt="dwaraka-reddy" /></a> </p>
